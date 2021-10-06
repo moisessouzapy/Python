@@ -1,0 +1,5 @@
+Estruturas condicionais alinhadas:
+
+Estruturas condicionais dentro de uma estruturas condicionais, onde se usa 'elif' entre 'if' e 'else', gerendo uma seguencia de blocos
+
+O elif serve para verificar outra condição caso a condição do If seja falsa.

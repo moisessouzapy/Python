@@ -1,0 +1,8 @@
+int = numeoros inreios (ex. 4, 4, -9)
+
+float = numeros racionais ou n. de ponto flutuante ( ex. 0.15, -45.55)
+
+bool = valores logicos ou boleano (true and false)
+
+str = valores caractere ou strings ('olá')
+

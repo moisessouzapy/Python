@@ -1,0 +1,4 @@
+ramdon:
+-.choice() para escolher aleatoriamente 1 valor
+-.shuflle() para escolher aleatoriamnete a sequencia da lista
+-.randint() para escolher um numero aleátorio entre dois valores

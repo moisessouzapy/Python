@@ -1,0 +1,2 @@
+Para descbrir como saber o ano em que o computador esta use
+''ano = datetime.date.today().year''

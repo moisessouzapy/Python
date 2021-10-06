@@ -1,0 +1,8 @@
+math:
+ceil = arredona para cima
+floor = arredonda para baixo
+trunc = apenas um numero apos a virgula
+pow = potencia
+sqrt = raiz quadrada
+factorial = fatorial
+

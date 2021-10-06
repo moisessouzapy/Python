@@ -1,0 +1,11 @@
+None (NoneType): tipo especial de objeto, que serve como lugar reservado
+vazio. A primeira vista, pode parecer estranho um objeto que representa
+o vazio, mas a função do None é ser um objeto que apenas ocupa espaço.
+Podemos usar o None, por exemplo, para representar um dado que no
+momento não é conhecido, mas que futuramente o será, por exemplo,
+inicializando uma variável ou posições de objetos sequenciais como listas
+(arrays)
+
+complex: tipo para números complexos. Utiliza-se a letra j (maiúscula
+ou minúscula) para designar o número imaginário. Exemplos de uso de
+dados complex
